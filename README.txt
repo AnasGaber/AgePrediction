@@ -1,6 +1,4 @@
 Anas Gaber Youssef
-2066017
-I explained in the report in the additional comments why there are many files
 
 the "File" type files are just saved shuffled data sets
 ______________________________
